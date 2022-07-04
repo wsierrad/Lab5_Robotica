@@ -1,7 +1,7 @@
 # Laboratorio 5 Robotica
 
 ## Código en RAPID del módulo utilizado para el desarrollo de la práctica.
-Se definen las constamtes del modulo 1
+Se definen las constantes del modulo 1
 ````
 MODULE Module1
     CONST robtarget Target_10:=[[552.499997675,18.5,548.499998507],[-0.000000007,0,1,0],[-1,-1,0,1],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]];
