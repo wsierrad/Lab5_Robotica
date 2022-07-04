@@ -11,10 +11,13 @@ William Arturo Sierra Díaz
 
 ## Vídeo: Simulación en Robotstudio 
 
+Simulacion tarea 1:  
+[![Practica 5: Simulación](https://img.youtube.com/vi/GLgyGINd8CE/0.jpg)](https://youtu.be/GLgyGINd8CE)
+Simulacion tarea 2:  
 [![Practica 5: Simulación](https://img.youtube.com/vi/ZEzRyouUXVY/0.jpg)](https://youtu.be/ZEzRyouUXVY)
 
 ## Vídeo: Implementación de la práctica
 
-[![Practica 5: Simulación](https://img.youtube.com/vi/IqijvEmYyDo/0.jpg)](https://youtu.be/IqijvEmYyDo)
+[![Practica 5: Implementación](https://img.youtube.com/vi/IqijvEmYyDo/0.jpg)](https://youtu.be/IqijvEmYyDo)
 
 ## Descripción de la solución planteada
